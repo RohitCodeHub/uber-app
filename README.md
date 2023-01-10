@@ -19,7 +19,7 @@ A cross-platform Uber clone app built with React Native, Expo
 Clone the project
 
 ```bash
-  git clone https://github.com/emmanuelchucks/react-native-uber-clone.git
+https://github.com/Rohit50582/uber-app.git
 ```
 
 Go to the project directory
